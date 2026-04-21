@@ -1,8 +1,8 @@
 ---
-title: "Tracseek: An Open-Source High-Concurrency Vehicle Tracking System based on Netty & JT808/JT1078 Protocol"
+title: "TracSeek: An Open-Source High-Concurrency Vehicle Tracking System based on Netty & JT808/JT1078 Protocol"
 date: 2026-04-21 10:00:00 +0800
 categories: [OpenSource, IoT]
-tags: [jt808, jt1078, gps, video]
+tags: [jt808, jt1078, gps, video,tracseek]
 ---
 ![Demo](images/轨迹切换.gif)
 
